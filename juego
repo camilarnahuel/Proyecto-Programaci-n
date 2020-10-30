@@ -2,8 +2,8 @@ import preguntas as p
 import random
 
 
-preguntas = {'Cuanto es pi': {'1. 100':1, '2. 3.14':0, '3. 67':0}, 'Pregunta2': {'1. Op1':0, '2. Op2':1, '3. Op3':0}, 'Pregunta3': {'1. Op1':0, '2. Op2':0, '3. Op3':1}, 
-            'Pregunta4': {'1. Op1':1, '2. Op2':0, '3. Op3':0}, 'Pregunta5': {'1. Op1':0, '2. Op2':1, '3. Op3':0}, 'Pregunta6': {'1. Op1':0, '2. Op2':1, '3. Op3':0}, 
+preguntas = {'Cuanto es pi': {'1. 100':1, '2. 3.14':0, '3. 67':0}, 'Cuanto es 7 + 19': {'1. 23':0, '2. 26':1, '3. 25':0}, 'Cuanto es 8 - 3': {'1. 10':0, '2. 7':0, '3. 5':1}, 
+            'Cuanto es 31 - 26': {'1. 5':1, '2. 20':0, '3. 15':0}, 'Pregunta5': {'1. Op1':0, '2. Op2':1, '3. Op3':0}, 'Pregunta6': {'1. Op1':0, '2. Op2':1, '3. Op3':0}, 
             'Pregunta7': {'1. Op1':1, '2. Op2':0, '3. Op3':0}, 'Pregunta8': {'1. Op1':0, '2. Op2':1, '3. Op3':0}, 'Pregunta9': {'1. Op1':0, '2. Op2':0, '3. Op3':1}, 
             'Pregunta10': {'1. Op1':0, '2. Op2':1, '3. Op3':0}}
 
